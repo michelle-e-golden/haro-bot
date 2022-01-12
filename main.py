@@ -207,4 +207,4 @@ async def atp_reminders():
     await channel.send(atp_remind)
 
 
-bot.run('NzkzMTUzMTI2MzU3NDAxNjcx.X-oHaQ.VU4A3sQn2r2xO9ev9pXu2eXRUEk')
+bot.run('[TOKEN CODE]')
